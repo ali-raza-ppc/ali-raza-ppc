@@ -35,4 +35,13 @@ I help e-commerce, DTC, SaaS and lead-generation brands grow profitably with pai
 - 🌐 [Portfolio website](https://ali-raza-ppc.github.io)
 - 📂 [Performance marketing portfolio & case studies](https://github.com/ali-raza-ppc/performance-marketing-portfolio)
 
+### 🧰 Tools I've built
+
+| Repo | What it does |
+|---|---|
+| [lead-round-robin-automation](https://github.com/ali-raza-ppc/lead-round-robin-automation) | Google Sheets + Apps Script: assigns Meta/Google leads to sales reps in rotation, with duplicate detection and email alerts |
+| [google-ads-scripts](https://github.com/ali-raza-ppc/google-ads-scripts) | Budget pacing and zero-conversion spend alerts for Google Ads |
+| [meta-ads-weekly-report](https://github.com/ali-raza-ppc/meta-ads-weekly-report) | Python: turns Ads Manager exports into a WoW report with an action plan |
+| [tracking-setup-playbook](https://github.com/ali-raza-ppc/tracking-setup-playbook) | GA4, GTM, Meta Pixel + CAPI and Google Ads tracking checklist |
+
 📍 Lahore, Pakistan · Remote · Comfortable working on US hours · Meta & Google course certificates (Coursera)
