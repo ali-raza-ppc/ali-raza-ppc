@@ -35,6 +35,13 @@ I help e-commerce, DTC, SaaS and lead-generation brands grow profitably with pai
 - 🌐 [Portfolio website](https://ali-raza-ppc.github.io)
 - 📂 [Performance marketing portfolio & case studies](https://github.com/ali-raza-ppc/performance-marketing-portfolio)
 
+### 💼 Services
+
+- [Meta ads expert for Shopify & DTC brands](https://ali-raza-ppc.github.io/meta-ads-expert-for-shopify/)
+- [TikTok ads freelancer for e-commerce](https://ali-raza-ppc.github.io/tiktok-ads-freelancer/)
+- [Google Ads & Meta lead generation](https://ali-raza-ppc.github.io/google-ads-lead-generation/)
+- [Hire a remote PPC specialist (US hours)](https://ali-raza-ppc.github.io/hire-remote-ppc-specialist/)
+
 ### 🧰 Tools I've built
 
 | Repo | What it does |
