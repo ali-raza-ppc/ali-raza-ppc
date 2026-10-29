@@ -33,6 +33,7 @@ I help e-commerce, DTC, SaaS and lead-generation brands grow profitably with pai
 ### 📁 Explore
 
 - 🌐 [Portfolio website](https://ali-raza-ppc.github.io)
+- ✍️ [Performance marketing blog](https://ali-raza-ppc.github.io/blog/)
 - 📂 [Performance marketing portfolio & case studies](https://github.com/ali-raza-ppc/performance-marketing-portfolio)
 
 ### 💼 Services
@@ -41,6 +42,17 @@ I help e-commerce, DTC, SaaS and lead-generation brands grow profitably with pai
 - [TikTok ads freelancer for e-commerce](https://ali-raza-ppc.github.io/tiktok-ads-freelancer/)
 - [Google Ads & Meta lead generation](https://ali-raza-ppc.github.io/google-ads-lead-generation/)
 - [Hire a remote PPC specialist (US hours)](https://ali-raza-ppc.github.io/hire-remote-ppc-specialist/)
+
+### ✍️ Latest guides on my blog
+
+- [Meta Ads Account Structure for Shopify Stores in 2026](https://ali-raza-ppc.github.io/blog/meta-ads-account-structure-shopify/)
+- [CBO vs ABO: When to Use Each on Meta Ads](https://ali-raza-ppc.github.io/blog/cbo-vs-abo-meta-ads/)
+- [How to Fix Creative Fatigue on Facebook and Instagram Ads](https://ali-raza-ppc.github.io/blog/fix-creative-fatigue-facebook-instagram-ads/)
+- [Dynamic Product Ads (DPA) for Shopify: Complete Setup Guide](https://ali-raza-ppc.github.io/blog/dynamic-product-ads-shopify/)
+- [Facebook Retargeting Ads for Abandoned Carts](https://ali-raza-ppc.github.io/blog/facebook-retargeting-abandoned-carts/)
+- [How to Calculate Break-Even ROAS for Your Shopify Store](https://ali-raza-ppc.github.io/blog/break-even-roas-shopify/)
+
+➡️ [All performance marketing guides](https://ali-raza-ppc.github.io/blog/)
 
 ### 🧰 Tools I've built
 
